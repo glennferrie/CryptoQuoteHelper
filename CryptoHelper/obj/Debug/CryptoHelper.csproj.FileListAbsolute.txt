@@ -1,0 +1,6 @@
+C:\Users\Glenn\Desktop\CryptoHelper\CryptoHelper\bin\Debug\CryptoHelper.exe.config
+C:\Users\Glenn\Desktop\CryptoHelper\CryptoHelper\bin\Debug\CryptoHelper.exe
+C:\Users\Glenn\Desktop\CryptoHelper\CryptoHelper\bin\Debug\CryptoHelper.pdb
+C:\Users\Glenn\Desktop\CryptoHelper\CryptoHelper\obj\Debug\CryptoHelper.csprojResolveAssemblyReference.cache
+C:\Users\Glenn\Desktop\CryptoHelper\CryptoHelper\obj\Debug\CryptoHelper.exe
+C:\Users\Glenn\Desktop\CryptoHelper\CryptoHelper\obj\Debug\CryptoHelper.pdb
